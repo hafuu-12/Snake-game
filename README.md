@@ -60,14 +60,11 @@ You need Python 3.8+ installed.
 # 1. unzip / clone the project, then cd into it
 cd snake_game
 
-# 2. (optional but recommended) make a virtual environment
-python -m venv venv
-source venv/bin/activate      # on Windows: venv\Scripts\activate
 
-# 3. install the one dependency
+# 2. install the one dependency
 pip install -r requirements.txt
 
-# 4. run it
+# 3. run it
 python main.py
 ```
 
